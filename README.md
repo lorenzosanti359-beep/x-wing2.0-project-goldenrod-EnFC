@@ -2,3 +2,4 @@
  Multi language localazation for Xwing The Minitures Game 2nd Edition 
 
 Open for the whole community to use as a resource 
+Fork aim to include new  cards for FLy Casual
